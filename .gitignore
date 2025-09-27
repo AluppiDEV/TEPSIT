@@ -1,0 +1,19 @@
+# Ignora tutto
+**/*
+
+# Formati per Html
+!**/*.html
+!**/*.css
+
+# Formati per JavaScript
+!**/*.js
+
+# File geerici
+!LICENSE
+!*/
+!**/*.md
+!**/*.txt
+!**/*.pdf
+!**/*.png
+!**/*.jpg
+!**/*.gitignore

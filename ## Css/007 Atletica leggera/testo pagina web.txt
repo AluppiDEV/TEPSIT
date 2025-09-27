@@ -1,0 +1,53 @@
+Atletica Leggera
+L'altletica leggera è un insieme di discipline sportive che possono essere suddivise in: corse, concorsi (lanci, salti), corsa su strada, marcia, 
+corsa campestre e corsa in montagna.
+
+Allenamento
+L'allenamento è la fase più importante della pratica sportiva (non solo per l'altletica leggera).
+
+Percorso di allenamento
+Un buon percorso di Allenamento è molto importante per l'efficacia dell'allenamento stesso, esso deve bilanciare preparzione atletica 
+generale, allenamento tecnico specifico, allenamento tecnico generico e preparazione atletica specifica. Le andature possono essere 
+considerate parte dell'allenamento tecnico.
+
+Il percorso di allenamento deve tener conto della condizione fisica dell'atleta, della capacità tecnica, del tempo 
+a disposizione, della concentrazione e del tipo di apprendimento (che può differire molto da atleta a atleta). Per chi 
+non ha già una buona forma fisica è meglio iniziare con una buona corsa di riscaldamento, esercizi di stretching e mobilità 
+per aumentare l'elasticità durante l'allenamento ed andature per evitare di prendere posizioni scorrette nella corsa
+
+Stretching e Mobilità
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
+culpa qui officia deserunt mollit anim id est laborum.
+
+Stretching
+Lo stretching consiste nel "tirare" certi muscoli attraverso posizioni particolari (alcuni esercizi richiedono del movimento ma questo è limitato).
+Ogni posizione di stretching deve essere tenuta per 10-30 secondi.
+
+Mobilità
+Gli esercizi di mobilità sono dei movimenti che servono a rendere i muscoli più elastici. Alcuni di questi esercizi sono un 
+evoluIone dinamica di posizioni di stretching.
+
+Allenamento Effettivo
+L'allenamento effettivo cosnsiste in una serie di esercizi e/o ripetute che hanno lo scopo di migliorare la tecnica o la preparazione 
+fisica dell'individuo. L'allenamento deve essere preceduto e seguito da riscaldamento-defaticamento rapportati al tipo di allenamento
+
+Tipi di Allenamento (corsa)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Scatto
+In genere la parte più importante è lo scatto e l'accellerazione immediata (incide sulla potenza ed esplosività mscolare).
+
+Latticido
+In genere dipede dallo scatto, però richiede uno sforzo anaerobico e quindi allena resistenza al lavoro in assenza 
+di sufficiente ossigenazione.
+
+Resistenza
+Allena il fiato, cioè la capacità di compiere unoi sforzo prolungato senza produrre acido lattico (e quindi mantenere un 
+ossigenazione elevata per lunghi periodi).
+
+Tratto da atletica leggera-Wikibooks, manuali e libiri di testo liberi.

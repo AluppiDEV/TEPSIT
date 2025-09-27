@@ -1,0 +1,58 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+}
+
+.id-card {
+	width: 400px;
+	height: fit-content;
+	border: 2px solid #ccc;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	background-color: #fff;
+}
+
+.header {
+	background-color: #003366;
+	border-radius: 10px 10px 0 0;
+	color: #fff;
+	padding: 15px;
+	h1 {
+		font-size: 24px;
+	}
+	p {
+		font-size: 14px;
+	}
+}
+
+.content {
+	display: flex;
+	padding: 20px;
+	.photo {
+		width: 100px;
+		height: 120px;
+		border-radius: 5px;
+	}
+	.details {
+		margin: 20px;
+		font-size: 14px;
+
+	}
+	.logo {
+		width: 75px;
+		height: 75px;
+		border-radius: 5px;
+		align-items: right;
+		margin-left: auto;
+	}
+}
+
+.footer {
+	background-color: #f0f0f0;
+	text-align: center;
+	padding: 10px;
+	border-top: 1px solid #ccc;
+	font-size: 12px;
+	border-radius: 0 0 10px 10px;
+}

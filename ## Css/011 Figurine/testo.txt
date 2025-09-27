@@ -1,0 +1,19 @@
+Esercizi di lab.TEPSIT
+Esercizio 1:
+Esercizio 2:
+Esercizio 3:
+Intelligenza: 20/100
+Forza: 70/100
+Magia: 40/100
+Intelligenza: 90/100
+Forza: 20/100
+Magia: 70/100
+Intelligenza: 20/100
+Forza: 90/100
+Magia: 40/100
+Intelligenza: 60/100
+Forza: 60/100
+Magia: 70/100
+Intelligenza: 80/100
+Forza: 30/100
+Magia: 70/100

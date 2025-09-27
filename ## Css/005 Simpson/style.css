@@ -1,0 +1,77 @@
+body {
+	height: 100vh;
+	text-align: center;
+	background: url(sfondo.jpg) fixed;
+	background-size: cover;
+}
+
+span {
+	width: 0.7em;
+	font-size: 300%;
+	font-family: algerian, Courier;
+	padding-inline: 90%;
+}
+
+.box1 {
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	border: 0px solid #36c;
+	width: 80%;
+}
+
+.box2 {
+	margin-left: 15%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	border: 2px dotted;
+	width: 70%;
+}
+
+.box3 {
+	margin-left: 10%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	border: 0px solid #36c;
+	width: 80%;
+}
+
+.testo1 {
+	text-align: justify;
+	color: blu;
+	padding-left: 5%;
+	letter-spacing: 2px;
+	font-style: italic;
+	font-size: 15px;
+	font-family: Verdana, sans-serif;
+	padding-inline: 30px;
+}
+
+.testo2 {
+	text-align: justify;
+	color: #ff0000;
+	padding-left: 5%;
+	letter-spacing: 5px;
+	font-style: normal;
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+	padding-inline: 40px;
+}
+
+.foto {
+	width: 200px;
+	margin: auto;
+	border: 2px solid red;
+	border-radius: 50px;
+}
+
+.testata {
+	width: 50%;
+	margin-left: 0;
+	margin-right: auto;
+	font-size: 120%;
+	font-family: Courier, Verdana;
+	font-weight: bold;
+	color: #000066;
+	margin-top: 10px;
+}

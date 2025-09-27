@@ -1,0 +1,37 @@
+body {
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: medium;
+	text-align: left;
+	background: url(bg-green.jpg) repeat;
+}
+
+h1 {
+	font-family: Verdana, sans-serif;
+	font-size: 28px;
+	background-color: green;
+	color: #C0C0C0;
+}
+
+h2 {
+	font-stretch: 75%;
+}
+
+h3 {
+	color: green;
+}
+
+strong {
+	color: #000555;
+}
+
+p {
+	text-align: justify;
+}
+
+hr {
+	border: solid 2px black;
+}
+
+footer {
+	font-size: small;
+}

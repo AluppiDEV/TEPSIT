@@ -1,0 +1,31 @@
+ul {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	gap: 1rem;
+	background-color: black;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+ul > li {
+	text-align: center;
+	flex: 1;
+	background-color: white;
+	padding: 2px;
+	border-radius: 6px;
+}
+
+ul > li:hover {
+	background-color: red;
+	cursor: pointer;
+}
+
+ul > li > a {
+	text-decoration: none;
+	color: black;
+}
+
+ul > li:hover > a {
+	color: white;
+}

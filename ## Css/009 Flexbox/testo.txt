@@ -1,0 +1,35 @@
+
+Testo su due colonne
+
+testo colonna sinistra:
+
+Lorem ipsum dolor sit amet, sic PVII excelsior elit, sed diam nonummy nibh euismod 
+Design Packs ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
+quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, 
+vel illum dolore eu feugiat nulla facilisis at vero eros et Al et Gerry odio dignissim qui 
+blandit praesent luptatum pvii delenit augue duis dolore te feugait nulla facilisi.Lorem ipsum 
+dolor sit amet, sic PVII excelsior elit, sed diam nonu. Lorem ipsum dolor sit amet, sic PVII 
+excelsior elit, sed diam nonummy nibh euismod Design Packs ut laoreet dolore magna aliquam 
+erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit 
+lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit 
+in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero
+ eros et Al et Gerry odio dignissim qui blandit praesent luptatum pvii delenit augue duis dolore 
+te feugait nulla facilisi.Lorem ipsum dolor sit amet, sic PVII excelsior elit, sed diam nonu.
+
+
+Testo colonna di destra:
+
+Lorem ipsum dolor sit amet, sic PVII excelsior elit, sed diam nonummy nibh euismod Design Packs 
+ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci 
+tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum 
+iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat 
+nulla facilisis at vero eros et Al et Gerry odio dignissim qui blandit praesent luptatum pvii delenit 
+augue duis dolore te feugait nulla facilisi.Lorem ipsum dolor sit amet, sic PVII excelsior elit, sed diam nonu.
+
+Lorem ipsum dolor sit amet, sic PVII excelsior elit, sed diam nonummy nibh euismod Design Packs 
+ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci 
+tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum 
+iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat 
+nulla facilisis at vero eros et Al et Gerry odio dignissim qui blandit praesent luptatum pvii delenit 
+augue duis dolore te feugait nulla facilisi.Lorem ipsum dolor sit amet, sic PVII excelsior elit, sed diam nonu.

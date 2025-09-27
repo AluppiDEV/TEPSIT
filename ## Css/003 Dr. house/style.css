@@ -1,0 +1,44 @@
+body {
+	background-color: #e6e7f0;
+	background-image: url(img/DrHouse.jpg);
+	background-repeat: no-repeat;
+	background-position: top right;
+	background-attachment: fixed;
+}
+
+h1 {
+	background-color: #990000;
+	color: red;
+	font-family: Serif;
+	background-image: url(img/piu.jpg);
+}
+
+h2 {
+	font-family: serif;
+	color: red;
+}
+
+p {
+	font-family: serif;
+	font-size: 14pt;
+	text-align: left;
+}
+
+li {
+	font-family: sans-serif;
+	text-align: justify;
+	list-style-type: square;
+}
+
+hr {
+	height: 2px;
+	color: red;
+	background-color: red;
+}
+
+.cit {
+	font-family: Arial;
+	font-variant: small-caps;
+	font-style: italic;
+	padding-left: 30px;
+}

@@ -1,0 +1,18 @@
+body {
+	height: 100vh;
+	background-color: #8B2227;
+	text-align: center;
+}
+
+.box {
+
+	width: 600px;
+	border: 2px solid #999;
+	background-color: #fff;
+	margin: 0 auto;
+}
+
+p {
+	font-size: 100.01%;
+	font-family: Arial, sans-serif;
+}

@@ -1,0 +1,70 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: red;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+}
+
+h1 {
+	font-family: Calibri;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+
+.contenitore {
+	display: flex;
+	padding: 10px;
+}
+
+.foto {
+	width: 200px;
+	height: 200px;
+}
+
+.divspecial {
+	width: 200px;
+	padding: 10px;
+	border: 5px solid white;
+	margin: 5px;
+}
+
+h2 {
+	font-family: Calibri;
+	font-size: 30px;
+	color: black;
+	text-align: left;
+	margin: 20px 10px;
+}
+
+.contenitore2 {
+	display: flex;
+}
+
+.divspecial2 {
+	background-color: lightgray;
+	width: 250px;
+	padding: 10px;
+	border: 5px solid black;
+	margin: 5px;
+}
+
+.divspecialint {
+	background-color: white;
+	width: 200px;
+	padding: 10px;
+	border: 5px solid black;
+	margin: 10px;
+}
+
+li {
+	position: relative;
+	left: 10px;
+	font-family: Calibri;
+	font-size: 17px;
+	color: black;
+	text-align: left;
+	list-style-type: none;
+	margin: 5px 0;
+}

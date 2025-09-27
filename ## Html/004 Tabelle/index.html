@@ -1,0 +1,136 @@
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>TABELLE</title>
+</head>
+<body>
+    <h1>Tabelle in HTML5</h1>
+
+    <h2>Colori</h2>
+    
+    <p>Tabella di soli dati formata da tre righe e tre colonne. Bordo di spessore 1.</p>
+
+    <table border=1>
+        <tr>
+            <td>Biaco</td>
+            <td>Giallo</td>
+            <td>Rosso</td>
+        </tr>
+        <tr>
+            <td>Viola</td>
+            <td>Verde</td>
+            <td>Marrone</td>
+        </tr>
+        <tr>
+            <td>Blu</td>
+            <td>Azzurro</td>
+            <td>Nero</td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <h2>Capitali europee</h2>
+
+    <p>Tabella di 4 righe e 3 colonne con celle d'intestazione. Bordo di spessore 1. Didascalia posta sulla parte superiore della tabella.</p>
+
+    <table border="1">
+        <caption align="top">
+            <b>Capitali europee</b>
+        </caption>
+        <tr>
+            <th>Città</th>
+            <th>Abitanti</th>
+            <th>Siperfice (kms<sup>2</sup>)</th>
+        </tr>
+        <tr>
+            <td>Madrid</td>
+            <td>3.099.854</td>
+            <td>606</td>
+        </tr>
+        <tr>
+            <td>Parigi</td>
+            <td>2.144.700</td>
+            <td>105</td>
+        </tr>
+        <tr>
+            <td>Roma</td>
+            <td>2.553.873</td>
+            <td>1.285</td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <h2>Registro delle presenze</h2>
+
+    <p>Tabella di 6 righe e 5 clonne con celle d'intestazione e <em>spanning</em> di rigae di colonna. Bordo di spessore 5. Didascalia posta sulla parte superiore della tabella. Struttura suddivisa in intestazione, corpo e piede di tabella.</p>
+
+    <table border="5">
+        <caption align="top">
+            <b>Registro delle assenze</b>
+        </caption>
+        <tr>
+            <th rowspan="2">N.</th>
+            <th rowspan="2">Studente</th>
+            <th colspan="3">Assenze</th>
+        </tr>
+        <tr>
+            <td>14-gen</td>
+            <td>21-gen</td>
+            <td>28-gen</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Alberici Francesca</td>
+            <td></td>
+            <td></td>
+            <td>A</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Criselli Giuseppe</td>
+            <td></td>
+            <td></td>
+            <td>A</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Paolucci Viviana</td>
+            <td>A</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th colspan="2">Assenze del giorno</th>
+            <th>1</th>
+            <th>0</th>
+            <th>2</th>
+        </tr>
+    </table>
+    
+    <br><br>
+
+    <h2>Recensione di libri</h2>
+
+    <p>Tabella d 3 righe e 3 colonne senza bordo.</p>
+
+    <table>
+        <tr>
+            <th>Titolo</th>
+            <th>Autore</th>
+            <th>Recensione</th>
+        </tr>
+        <tr>
+            <td>La luna e il falò</td>
+            <td>Pavese C.</td>
+            <td>Finita la guerra il protagonista torna quarantenne nella sua terra, le Langhe, abbandonata vent'anni prima per cercare fortuna in America</td>
+        </tr>
+        <tr>
+            <td>Lontano</td>
+            <td>Parise G.</td>
+            <td>Brevi racconti nei quali particolari momenti della vita passata dell'autore si raccendono come lampi improvvisi.</td>
+        </tr>
+    </table>
+</body>
+</html>

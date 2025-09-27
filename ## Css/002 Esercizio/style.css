@@ -1,0 +1,21 @@
+body {
+	background-color: #fffe97;
+}
+
+h1 {
+	background-color: #ff663c;
+	text-align: center;
+	color: #fff008;
+	font-family: Calibri;
+	font-size: 30px;
+}
+
+p {
+	text-align: justify;
+	font-family: Arial;
+}
+
+hr {
+	background-color: #f17244;
+	height: 5px;
+}
