@@ -1,0 +1,47 @@
+body {
+  font-family: Verdana;
+  background-color: #faf9f5;
+  font-size: 10pt;
+}
+
+h1 {
+  text-align: center;
+  color: #ffaa40;
+  font-size: 20pt;
+}
+
+p {
+  text-align: justify;
+}
+
+fieldset {
+  padding: 20px;
+  width: 550px;
+  text-align: left;
+}
+
+/* #dati input,
+#dati select {
+  position: absolute;
+  left: 200px;
+} */
+
+legend {
+  color: #ffaa40;
+  font-size: 13pt;
+}
+
+strong {
+  color: #ffaa40;
+}
+
+label {
+  display: block;
+  margin-bottom: 7px;
+}
+
+#dati input,
+#dati select {
+  position: absolute;
+  left: 150px;
+}

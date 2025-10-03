@@ -1,0 +1,75 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Esercizio</title>
+  </head>
+  <body>
+    
+        <h1>Questionario CLEI</h1>
+        <form>
+          <!-- Prima sezione: dati personali -->
+          <fieldset>
+            <legend>Dati Personali</legend>
+
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required />
+
+            <label for="cognome">Cognome:</label>
+            <input type="text" id="cognome" name="cognome" required />
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required />
+
+            <label for="anno">Anno di iscrizione:</label>
+            <select id="anno" name="anno" required>
+              <option value="">-- Seleziona --</option>
+              <option>1</option>
+              <option>2</option>
+              <option>3</option>
+              <option>4</option>
+              <option>5</option>
+              <option>1FC</option>
+              <option>2FC</option>
+            </select>
+          </fieldset>
+
+          <!-- Seconda sezione: gradimento sito -->
+          <fieldset>
+            <legend>Gradimento del sito web</legend>
+
+            <label for="grafica">Valutazione grafica del sito:</label>
+            <div class="radio-group">
+              <label
+                ><input type="radio" name="grafica" value="ottima" required />
+                Ottima</label
+              >
+              <label
+                ><input type="radio" name="grafica" value="buona" />
+                Buona</label
+              >
+              <label
+                ><input type="radio" name="grafica" value="sufficiente" />
+                Sufficiente</label
+              >
+              <label
+                ><input type="radio" name="grafica" value="mediocre" />
+                Mediocre</label
+              >
+              <label
+                ><input type="radio" name="grafica" value="pessima" />
+                Pessima</label
+              >
+            </div>
+
+            <label for="commenti">Altri commenti o suggerimenti:</label>
+            <textarea id="commenti" name="commenti" rows="4"></textarea>
+          </fieldset>
+
+          <button type="submit">Invia Questionario</button>
+        </form>
+      </body>
+    </html>
+  </body>
+</html>
