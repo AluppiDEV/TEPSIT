@@ -3,7 +3,7 @@
 ![Talpa](https://img.shields.io/badge/Talpa-🐾%20online-green)
 ![scuola](https://img.shields.io/badge/scuola-IIS%20F.Corni-red)
 ![HTML](https://img.shields.io/badge/HTML-FF5722?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264DE4?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264DE4?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 Questa repository contiene gli esercizi di **TEPSIT**, svolti a scuola con **HTML**, **CSS** e **JavaScript**.  
