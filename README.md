@@ -2,7 +2,7 @@
 
 ![Talpa](https://img.shields.io/badge/Talpa-🐾%20online-green)
 ![scuola](https://img.shields.io/badge/scuola-IIS%20F.Corni-red)
-![HTML](https://img.shields.io/badge/language-HTML-blue?logo=htmllogoColor=white)
+![HTML](https://img.shields.io/badge/language-HTML-blue?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/language-CSS-3776AB?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-007396?logo=javascript&logoColor=white)
 
